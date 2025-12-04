@@ -1,3 +1,0 @@
-git clone https://github.com/HomiCurintias/carrier.git
-cd carrier
-sudo cp carrier.py /usr/lib/python3/dist-packages/
