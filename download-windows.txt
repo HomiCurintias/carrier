@@ -1,3 +1,0 @@
-git clone https://github.com/HomiCurintias/carrier.git
-cd carrier
-copy carrier.py C:\Users\%USERNAME%\AppData\Local\Programs\Python\Python311\Lib\site-packages\
